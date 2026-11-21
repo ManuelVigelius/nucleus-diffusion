@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pillow
+pyarrow    # Hugging Face parquet download (falls back to torchvision without it)
+tqdm
+pytest
+clean-fid  # optional, only for eval_fid.py
